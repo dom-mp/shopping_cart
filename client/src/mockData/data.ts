@@ -1,3 +1,10 @@
+// interface ProductProp {
+//   _id: string;
+//   title: string;
+//   quantity: number;
+//   price: number;
+// }
+
 export const mockProducts = [
   {
     _id: "1",
